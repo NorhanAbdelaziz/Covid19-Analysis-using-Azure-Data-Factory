@@ -1,0 +1,9 @@
+{
+	"name": "covid-adf-vikram",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d46d700d-a4d9-428d-97ca-f3c709c19a66",
+		"tenantId": "ddd5b495-5123-4aea-8149-19234fdc863b"
+	}
+}
